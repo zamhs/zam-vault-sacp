@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "format": "YYYY-MM-DD",
+  "folder": "Sistema/Bitácora",
+  "template": "Sistema/Plantillas/Plantilla - Bitácora diaria"
+}

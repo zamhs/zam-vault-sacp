@@ -1,0 +1,9 @@
+# Obsidian local state (no versionar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/sync.json
+
+# Sistema
+.DS_Store
+Thumbs.db
