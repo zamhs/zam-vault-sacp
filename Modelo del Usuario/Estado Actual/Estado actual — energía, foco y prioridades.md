@@ -3,11 +3,11 @@ id: "20260719051301"
 tipo: modelo_usuario
 subtipo: estado_actual
 confianza: alta
-evidencia_base: ["[[2026-07-19 - Zam comparte contexto extenso para el Modelo del Usuario]]"]
-fecha_ultima_actualizacion: 2026-07-19
+evidencia_base: ["[[2026-07-19 - Zam comparte contexto extenso para el Modelo del Usuario]]", "Consulta SQL de solo lectura vía execute_sql sobre dev_daily_logs/dev_behavior_logs/dev_tasks (Supabase, proyecto sjuhxdqcotywuiopjgsr), rango 2026-05-24 a 2026-07-20"]
+fecha_ultima_actualizacion: 2026-07-20
 estado: vigente
 tags: [modelo-usuario, estado-actual]
-relacionado_con: ["[[MOC - Modelo del Usuario]]", "[[Objetivos actuales]]", "[[Intereses genuinos]]"]
+relacionado_con: ["[[MOC - Modelo del Usuario]]", "[[Objetivos actuales]]", "[[Intereses genuinos]]", "[[Silencio simultáneo en múltiples fuentes de autorregistro]]"]
 padre: "[[MOC - Modelo del Usuario]]"
 ---
 
@@ -27,9 +27,16 @@ Su propio marco para priorizar: orientar energía hacia proyectos con "alto efec
 
 Autorreporte directo, con una síntesis final del propio Zam que es internamente consistente con Objetivos actuales, Intereses genuinos, y la declaración de cierre sobre "el propósito real" del SACP en la misma conversación.
 
+## Observación derivada de datos (2026-07-20)
+
+A diferencia del resto de esta nota (autorreporte conversacional del 2026-07-19), lo siguiente proviene del primer análisis de solo lectura corrido contra la base de datos real de la Zam App — no de algo que Zam haya declarado en conversación:
+
+Al momento de este análisis, los registros muestran una caída simultánea en tres fuentes independientes (hábitos positivos y `dev_tasks` sin filas nuevas desde 2026-07-09; `dev_daily_logs` sin las 5 actividades completas desde 2026-07-08) que contrasta con continuidad en el registro de comportamientos de malestar (`azucar`, `miedo`, `scroll`, hasta 2026-07-20) y GYM. Ver detalle y limitaciones en [[Silencio simultáneo en múltiples fuentes de autorregistro]]. Esto no contradice la prioridad declarada por Zam el 2026-07-19 ("etapa de construcción", alto efecto compuesto) — pero sí sugiere que, en la práctica reciente, esa energía no se está traduciendo en registro sostenido de los hábitos que sostienen esa construcción. Se documenta aquí como contexto, no como conclusión: el N es bajo y no hay forma de distinguir con estos datos si el hábito real decayó o solo su registro.
+
 ## Historial de actualizaciones
 
 - 2026-07-19: creación de la nota a partir de la primera respuesta extensa de Zam.
+- 2026-07-20: añadida observación derivada de datos reales de la Zam App (primera ejecución del Protocolo de Ingesta de Datos Cuantitativos), sin modificar el contenido del autorreporte original.
 
 Ver también: [[Índice]]
 
