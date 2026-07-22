@@ -22,6 +22,7 @@ SORT confianza DESC
 
 ## Notas
 
+- [[Sesgo de confianza en suposiciones no verificadas - efecto cascada en decisiones]]
 - [[Riesgo de repetición de patrones familiares por proximidad estructural]]
 
 ## Ver también
