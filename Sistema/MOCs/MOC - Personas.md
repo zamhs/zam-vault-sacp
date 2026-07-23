@@ -22,6 +22,7 @@ SORT fecha_creacion DESC
 
 ## Notas
 
+- [[Karla]]
 - [[Madre]]
 - [[Abuela]]
 
