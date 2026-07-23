@@ -22,7 +22,7 @@ SORT fecha_creacion DESC
 
 ## Notas
 
-- [[Voz autocrítica interna]]
+(Vacío por ahora - los patrones se documentarán conforme emerjan)
 
 ## Ver también
 
