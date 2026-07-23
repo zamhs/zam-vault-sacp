@@ -22,7 +22,6 @@ SORT fecha_creacion DESC
 
 ## Notas
 
-- [[Desidentificación - Observar sin Fusión emocional]]
 - [[Voz autocrítica interna]]
 
 ## Ver también
