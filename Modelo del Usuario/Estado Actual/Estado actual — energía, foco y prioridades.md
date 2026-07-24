@@ -3,8 +3,8 @@ id: "20260719051301"
 tipo: modelo_usuario
 subtipo: estado_actual
 confianza: alta
-evidencia_base: ["[[2026-07-19 - Zam comparte contexto extenso para el Modelo del Usuario]]", "Consulta SQL de solo lectura vía execute_sql sobre dev_daily_logs/dev_behavior_logs/dev_tasks (Supabase, proyecto sjuhxdqcotywuiopjgsr), rango 2026-05-24 a 2026-07-20"]
-fecha_ultima_actualizacion: 2026-07-20
+evidencia_base: ["[[2026-07-19 - Zam comparte contexto extenso para el Modelo del Usuario]]", "Consulta SQL de solo lectura vía execute_sql sobre dev_daily_logs/dev_behavior_logs/dev_tasks/dev_daily_checkins/dev_goals/dev_gym_sessions (Supabase, proyecto sjuhxdqcotywuiopjgsr), rango 2026-05-24 a 2026-07-23"]
+fecha_ultima_actualizacion: 2026-07-23
 estado: vigente
 tags: [modelo-usuario, estado-actual]
 relacionado_con: ["[[MOC - Modelo del Usuario]]", "[[Objetivos actuales]]", "[[Intereses genuinos]]", "[[Silencio simultáneo en múltiples fuentes de autorregistro]]"]
@@ -33,10 +33,15 @@ A diferencia del resto de esta nota (autorreporte conversacional del 2026-07-19)
 
 Al momento de este análisis, los registros muestran una caída simultánea en tres fuentes independientes (hábitos positivos y `dev_tasks` sin filas nuevas desde 2026-07-09; `dev_daily_logs` sin las 5 actividades completas desde 2026-07-08) que contrasta con continuidad en el registro de comportamientos de malestar (`azucar`, `miedo`, `scroll`, hasta 2026-07-20) y GYM. Ver detalle y limitaciones en [[Silencio simultáneo en múltiples fuentes de autorregistro]]. Esto no contradice la prioridad declarada por Zam el 2026-07-19 ("etapa de construcción", alto efecto compuesto) — pero sí sugiere que, en la práctica reciente, esa energía no se está traduciendo en registro sostenido de los hábitos que sostienen esa construcción. Se documenta aquí como contexto, no como conclusión: el N es bajo y no hay forma de distinguir con estos datos si el hábito real decayó o solo su registro.
 
+## Observación derivada de datos (2026-07-23)
+
+Seguimiento de solo lectura, tres días después del primer análisis. El silencio en `dev_daily_logs` para las actividades núcleo no se resolvió (ver detalle en [[Silencio simultáneo en múltiples fuentes de autorregistro]]), mientras que `dev_behavior_logs` y `dev_tasks` sí muestran actividad nueva desde entonces. Además, la tabla `dev_daily_checkins` (mood/energy/stress), activa desde 2026-07-20 y pensada para dar visibilidad temprana incluso en días sin hábitos logueados, tiene un único registro en sus primeros 4 días: 2026-07-22, con `mood: 2/5`, `energy: 2/5`, `stress: 4/5` y una nota de Zam sobre sueño interrumpido. Un solo punto de dato no permite establecer tendencia, pero es consistente con — no prueba — la lectura de que la energía declarada para la "etapa de construcción" no se está traduciendo, en este período, en ejecución sostenida sobre las actividades que la sostienen. Se documenta como contexto, igual que la observación del 2026-07-20.
+
 ## Historial de actualizaciones
 
 - 2026-07-19: creación de la nota a partir de la primera respuesta extensa de Zam.
 - 2026-07-20: añadida observación derivada de datos reales de la Zam App (primera ejecución del Protocolo de Ingesta de Datos Cuantitativos), sin modificar el contenido del autorreporte original.
+- 2026-07-23: añadido seguimiento de tres días después, con el primer dato de `dev_daily_checkins` disponible.
 
 Ver también: [[Índice]]
 
