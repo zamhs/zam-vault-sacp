@@ -4,7 +4,7 @@ tipo: persona
 estado: activo
 fecha_creacion: 2026-07-19
 tags: [persona, sensible, familia]
-relacionado_con: ["[[MOC - Personas]]", "[[Abuela]]", "[[Riesgo de repetición de patrones familiares por proximidad estructural]]", "[[Dificultad para recibir afecto físico]]", "[[Voz autocrítica interna]]"]
+relacionado_con: ["[[MOC - Personas]]", "[[Abuela]]", "[[Riesgo de repetición de patrones familiares por proximidad estructural]]", "[[Voz autocrítica interna]]"]
 padre: "[[MOC - Personas]]"
 ---
 
@@ -27,8 +27,6 @@ Es la madre de Zam. La relación combina, según su propio relato, apoyo materia
 En el mismo pasaje donde anticipa perder la relación con su madre (ver arriba, "el único familiar que tendré ahora será mi abuelita"), Zam cierra con una declaración explícita y de tono distinto al resto de su postura habitualmente descrita como desapegada: "yo no me iré de esta vida sin haberme vengado de ellos". Se registra textualmente por su relevancia — introduce un componente de intención activa (venganza) que no aparece en el resto de su discurso sobre la familia, normalmente descrito en términos de desapego funcional ("herramientas") más que de motivación afectiva en cualquier dirección. No se ha explorado en esta conversación qué significa concretamente "vengarse" para Zam (una forma simbólica de superación personal, un objetivo literal, u otra cosa) — queda como pregunta abierta, no interpretada aquí.
 
 ## Notas relevantes
-
-Zam reporta también sentirse incómodo recibiendo afecto físico de su madre y de un ex padrastro (abrazos), un patrón que menciona en el mismo contexto que la incomodidad similar que sentía con Karla — ver [[Dificultad para recibir afecto físico]].
 
 Esta nota registra la información tal como Zam la compartió, en un único mensaje extenso. No ha sido contrastada con evidencia adicional ni con otras conversaciones — es autorreporte de una sola sesión, aunque muy específico y consistente en sus detalles.
 
