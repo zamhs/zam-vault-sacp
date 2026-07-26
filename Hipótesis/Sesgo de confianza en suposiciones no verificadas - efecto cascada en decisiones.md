@@ -68,15 +68,6 @@ Si está construyendo una "infraestructura personal de aprendizaje" (como declar
 
 La solución no es trabajar más. Es **verificar más antes de actuar**.
 
-## Propuesta de prueba
-
-Próximas 2 semanas: antes de cualquier decisión, aunque parezca pequeña, preguntarse explícitamente:
-- ¿En qué suposición descansa esta decisión?
-- ¿He verificado que esa suposición es verdadera?
-- Si no, ¿cuánto me costaría verificarla ahora vs después?
-
-Registrar esto en un log separado. Si el patrón es real, el cansancio debería disminuir conforme más decisiones pasen por verificación.
-
 Ver también: [[Índice]]
 
 ---
