@@ -53,25 +53,6 @@ No hay confirmación aún. Requiere observación más sistemática.
 5. **¿Aparece predeciblemente?** (después de ciertos ejercicios, días específicos, etc.)
 6. **¿Hay algún movimiento que lo empeore o mejore?**
 
-## Implicación para el SACP
-
-Si el dolor de espalda es crónico o frecuente, necesita:
-1. Diagnóstico y tratamiento (no es "algo que ignorar")
-2. Incorporación en el modelo de capacidades físicas reales
-3. Ajuste de objetivos de desarrollo físico (¿el programa de gym es compatible con esta limitación?)
-4. Documentación en los logs diarios (¿cuándo aparece? ¿intensidad? ¿impacto en performance?)
-
-## Acción sugerida (próximas 48 horas)
-
-1. Recolectar datos: cada vez que aparezca el dolor, registrar:
-   - Hora del día
-   - Actividad que lo desencadenó (o si fue espontáneo)
-   - Intensidad (1-10)
-   - Duración
-   - Qué movimientos empeoran/mejoran
-
-2. Consideración profesional: Si persiste, evaluación por fisioterapista
-
 Ver también: [[Índice]]
 
 ---
