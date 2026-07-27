@@ -53,6 +53,10 @@ No hay confirmación aún. Requiere observación más sistemática.
 5. **¿Aparece predeciblemente?** (después de ciertos ejercicios, días específicos, etc.)
 6. **¿Hay algún movimiento que lo empeore o mejore?**
 
+## Historial de actualizaciones
+
+- **2026-07-27**: El dolor sigue activo 5 días después del reporte inicial (no fue un episodio puntual del 22 de julio). Zam reporta que hoy mantuvo el cuarto "parcialmente limpio" — el mismo patrón exacto ya documentado el 22 de julio ("intentó lavar ropa y acomodar cuarto pero solo completó parcialmente"). Esto refuerza que la limitación funcional es recurrente, no aislada, y sigue sin diagnóstico ni disparador identificado (ver preguntas abiertas arriba, ninguna resuelta todavía). Reportado en el mismo mensaje donde Zam expresó la creencia "creo que soy un fracaso" — posible conexión a explorar (no confirmada): completar tareas solo parcialmente por una limitación física real podría estar alimentando una lectura autocrítica de la situación como fracaso personal en vez de como consecuencia física. Queda como pregunta abierta, no como conclusión.
+
 Ver también: [[Índice]]
 
 ---
