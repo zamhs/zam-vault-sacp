@@ -28,6 +28,13 @@ Nota de contexto físico relevante para el Modelo del Usuario: Zam reporta que c
 
 Zam es explícito en que no busca activamente recuperar esta relación ni la idealiza hoy; la trata como una experiencia formativa cerrada. Su aprendizaje declarado: no construir su identidad alrededor de otra persona, no depender emocionalmente de validación externa, y construir objetivos cuyo sentido no dependa de quién esté presente en su vida.
 
+## Historial de actualizaciones
+
+- **2026-07-27**: En la misma conversación donde revisó su declaración de que había "superado" la exigencia interna (ver [[Alta exigencia interna — revisión de la declaración de patrón superado]]), Zam reportó un episodio distinto pero posiblemente relacionado: se detuvo a pensar "algo mal emocionalmente" y llegó a la conclusión "creo que soy un fracaso y por eso Karla no está conmigo". Después de ese pensamiento, tuvo el impulso de tomar whisky y revisar las redes sociales de Karla y de su pareja actual — un comportamiento que él mismo describe como algo que hacía "el año pasado". Reporta que esta vez no lo hizo porque en vez de eso escribió sobre el impulso en la conversación.
+  - Nota de contraste: esta nota ya documentaba que Zam trata la relación como "una experiencia formativa cerrada" y que no la idealiza hoy. El episodio de hoy — impulso de revisar redes + narrativa de "soy un fracaso, por eso no está conmigo" — es una versión más dura y más activa de lo que esta nota describe como superado. Igual que con la exigencia interna, queda abierta la pregunta de si "cerrado" fue una declaración prematura o si es un impulso puntual y aislado.
+  - No se documenta como hecho que el fracaso personal explique por qué la relación no continuó — es la interpretación que Zam se dio a sí mismo en un momento de malestar emocional, no una conclusión verificada. La propia nota original (ver arriba) ya describe una historia más compleja: idealización, proyección de expectativas, colapso de un modelo mental — no un veredicto simple de fracaso.
+  - Pendiente (si Zam quiere retomarlo): ¿el impulso de revisar redes sociales bajo alcohol es recurrente desde "el año pasado" hasta ahora, con qué frecuencia, y qué lo dispara además del malestar emocional puntual? Esto podría cruzarse con la categoría `impulsos` de `dev_behavior_logs` si se registra ahí.
+
 Ver también: [[Índice]]
 
 ---
