@@ -44,10 +44,14 @@ Puede activarse durante cualquier motor del ciclo, distinta de Reflexión (que o
 
 No es una cuarta etapa secuencial del Ciclo ni un cuarto eje formal — es una capacidad transversal invocable desde Evidencia o Investigación, igual que un Marco de Razonamiento puede usarse dentro de cualquier motor. Da acceso a datos conductuales reales de Zam desde una base de datos viva. Ver [[Protocolo de Ingesta de Datos Cuantitativos]] y [[Zam App — Base de datos de autorregistro (Supabase)]].
 
+## (e) Formato de respuesta — Teórico-Práctica
+
+No es una capacidad de razonamiento sino de la Interfaz Conversacional: define cómo se empaqueta una respuesta ya razonada cuando Zam reporta un impulso, hábito, sensación o patrón en tiempo real. Ver [[Protocolo de Respuesta Teórico-Práctica]].
+
 ## Fundamentos
 
 Las reglas de conocimiento que estos tres ejes aplican viven en [[Epistemología del Sistema]]. La descripción completa de componentes y flujo vive en [[Arquitectura Cognitiva del Sistema]].
 
 ## Ver también
 
-[[Índice]] · [[Arquitectura Cognitiva del Sistema]] · [[Epistemología del Sistema]] · [[Índice - Marcos de Razonamiento]]
+[[Índice]] · [[Arquitectura Cognitiva del Sistema]] · [[Epistemología del Sistema]] · [[Índice - Marcos de Razonamiento]] · [[Protocolo de Respuesta Teórico-Práctica]]
