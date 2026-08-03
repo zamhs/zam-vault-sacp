@@ -4,7 +4,7 @@ tipo: persona
 estado: activo
 fecha_creacion: 2026-07-19
 tags: [persona, sensible]
-relacionado_con: ["[[MOC - Personas]]", "[[Estado actual — energía, foco y prioridades]]", "[[Dificultad para recibir afecto físico]]"]
+relacionado_con: ["[[MOC - Personas]]", "[[Estado actual — energía, foco y prioridades]]", "[[Dificultad para recibir afecto físico]]", "[[Madre]]", "[[Fallar en cualquier meta se traduce en \"merezco que Karla se haya ido\"]]", "[[\"Soy mejor que todos\" como defensa compensatoria ante la vergüenza de haber rogado y bebido por Karla]]"]
 padre: "[[MOC - Personas]]"
 ---
 
@@ -52,6 +52,11 @@ Zam es explícito en que no busca activamente recuperar esta relación ni la ide
 
 - **2026-08-03**: Al pedir ideas de "sistemas" de intervención para distintas áreas de su vida, Zam mencionó, de paso y sin desarrollarlo todavía, que en lo relacionado con Karla "suele usar mucha defensa muy seguido". No especificó si se refiere a defensividad en conversaciones sobre ella, en relaciones nuevas, o como estilo general que solo se hizo visible al mencionar a Karla. Se documenta tal cual, sin interpretar, porque quedó pendiente de que él mismo lo precise.
   - Resuelto el mismo día: Zam precisó que "defensa" se refiere a un discurso interno de que todo su cambio actual es mejor que haber seguido con Karla, que escala hacia "soy mejor que ellos dos" y "soy mejor que todos", y que cubre recuerdos de haberle rogado y de haberse emborrachado repetidamente por ella. Desarrollo completo en [["Soy mejor que todos" como defensa compensatoria ante la vergüenza de haber rogado y bebido por Karla]].
+
+- **2026-08-03 (mañana siguiente al episodio de las fotos)**: Zam reportó un pensamiento comparativo al despertar. Describe al novio de Karla como alguien con familia estable, unida y religiosa; Karla comparte esa misma religión y se conocieron en la iglesia; la familia de ella también lo quiere a él; y tiene amigos estables — a diferencia de Zam, que rompió con los suyos tras la ruptura con Karla y los recuperó después con disculpas. Zam contrasta esto explícitamente con su propia historia familiar (ver [[Madre]] y [[Abuela]]), que él mismo describe como "la familia de asco que me tocó". Nota que el día anterior había dicho "él está cometiendo un error" al tener tanto apego a Karla, y hoy reconoce la tensión: reconoce por su cuenta que basar la propia felicidad o estabilidad en otra persona "es un error, posiblemente" — el mismo señalamiento que le hizo ayer al novio, aplicado hoy a sí mismo sin que se le pidiera.
+  - La pregunta que trae: si el historial de Zam (terapia psicológica, recaídas, conflicto y odio hacia su familia, rechazo a la religión de ella) es la razón por la que Karla "sí funcionó" con él y no con Zam.
+  - Nota de contraste, no resuelta como hecho: hay una inversión notable en cómo Zam está usando la evidencia. Terapia, autoestudio, y trabajar activamente un historial de maltrato familiar (documentado en [[Madre]]) son, en cualquier otro contexto de esta conversación, evidencia de esfuerzo y crecimiento genuino. Aquí se están usando como motivo por el que merece menos ser elegido — mientras que la estabilidad heredada del novio (una familia que no tuvo que reconstruir) se usa como motivo por el que él sí la merece. Esto no se documenta como una distorsión confirmada — es una observación de cómo se está usando la evidencia, para que Zam la revise si quiere.
+  - Secuencia observada: exposición a fotos (2 ago, noche) → pico de enojo/asco → recuperación en ~10 min → al día siguiente, una nueva elaboración cognitiva que retoma el mismo material pero en clave comparativa/familiar. Patrón temporal a vigilar: elaboraciones explicativas apareciendo la mañana después de un pico emocional, no durante.
 
 Ver también: [[Índice]]
 
