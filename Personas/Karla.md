@@ -50,6 +50,9 @@ Zam es explícito en que no busca activamente recuperar esta relación ni la ide
   - Posible conexión sin confirmar: esto podría relacionarse con [[Sesgo de confianza en suposiciones no verificadas - efecto cascada en decisiones]] — si la sensación de "manipulable" viene de haber confiado en suposiciones sobre Karla o la relación sin verificarlas en su momento, sería el mismo mecanismo cognitivo general aplicado a una relación personal en vez de a una decisión práctica. Zam no ha confirmado esta conexión; se deja anotada como hipótesis a explorar.
   - Pendiente (si Zam quiere retomarlo): ¿la sensación de haber sido manipulado por Karla se basa en algo concreto que ella hizo durante la relación, o es una interpretación posterior? ¿Qué tan seguido ocurre este tipo de exposición involuntaria por parte de amigos u otras personas? ¿Vale la pena poner un límite explícito con ese amigo específico sobre no compartir contenido relacionado con Karla?
 
+- **2026-08-03**: Al pedir ideas de "sistemas" de intervención para distintas áreas de su vida, Zam mencionó, de paso y sin desarrollarlo todavía, que en lo relacionado con Karla "suele usar mucha defensa muy seguido". No especificó si se refiere a defensividad en conversaciones sobre ella, en relaciones nuevas, o como estilo general que solo se hizo visible al mencionar a Karla. Se documenta tal cual, sin interpretar, porque quedó pendiente de que él mismo lo precise.
+  - Pendiente (si Zam quiere retomarlo): ¿"defensa" se refiere a defensividad verbal/emocional ante ciertos temas, a evitar vulnerabilidad en relaciones nuevas, o a otra cosa? ¿Es específico de contextos relacionados con Karla o es un patrón más general que ella solo hizo visible?
+
 Ver también: [[Índice]]
 
 ---
