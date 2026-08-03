@@ -51,7 +51,7 @@ Zam es explícito en que no busca activamente recuperar esta relación ni la ide
   - Pendiente (si Zam quiere retomarlo): ¿la sensación de haber sido manipulado por Karla se basa en algo concreto que ella hizo durante la relación, o es una interpretación posterior? ¿Qué tan seguido ocurre este tipo de exposición involuntaria por parte de amigos u otras personas? ¿Vale la pena poner un límite explícito con ese amigo específico sobre no compartir contenido relacionado con Karla?
 
 - **2026-08-03**: Al pedir ideas de "sistemas" de intervención para distintas áreas de su vida, Zam mencionó, de paso y sin desarrollarlo todavía, que en lo relacionado con Karla "suele usar mucha defensa muy seguido". No especificó si se refiere a defensividad en conversaciones sobre ella, en relaciones nuevas, o como estilo general que solo se hizo visible al mencionar a Karla. Se documenta tal cual, sin interpretar, porque quedó pendiente de que él mismo lo precise.
-  - Pendiente (si Zam quiere retomarlo): ¿"defensa" se refiere a defensividad verbal/emocional ante ciertos temas, a evitar vulnerabilidad en relaciones nuevas, o a otra cosa? ¿Es específico de contextos relacionados con Karla o es un patrón más general que ella solo hizo visible?
+  - Resuelto el mismo día: Zam precisó que "defensa" se refiere a un discurso interno de que todo su cambio actual es mejor que haber seguido con Karla, que escala hacia "soy mejor que ellos dos" y "soy mejor que todos", y que cubre recuerdos de haberle rogado y de haberse emborrachado repetidamente por ella. Desarrollo completo en [["Soy mejor que todos" como defensa compensatoria ante la vergüenza de haber rogado y bebido por Karla]].
 
 Ver también: [[Índice]]
 
