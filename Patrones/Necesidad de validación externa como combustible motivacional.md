@@ -28,11 +28,18 @@ Esta no es una nota nueva y aislada — es, probablemente, la raíz que conecta 
 
 No se registra ninguna hipótesis sobre el origen de esta necesidad de validación — de dónde viene, desde cuándo, o por qué se instaló con esa intensidad. Zam no lo mencionó y no corresponde inventarlo. Tampoco se documenta como hecho que esta necesidad sea "mala" o deba eliminarse por completo — el propio Zam distingue entre validación como dependencia (lo que quiere corregir) y conexión con otras personas (lo que había identificado como ausente en su vida el 29 de julio); no son necesariamente lo mismo, y esta nota no las trata como sinónimos.
 
+## Refinación importante (misma conversación, minutos después)
+
+Zam corrigió el marco inicial de esta nota con información más precisa. Primero, aclaró que su trabajo reflexivo/filosófico — construir el SACP, razonar con marcos de psicología y sistemas — sí lo describe como genuinamente suyo, sostenido sin que nadie lo vea, distinto a cómo es "con los demás". Esto es evidencia real, no hipotética, de que existe al menos un dominio donde su motivación no depende de audiencia — y es importante no perderla de vista, porque es la excepción que ayuda a entender la regla.
+
+Segundo, dio evidencia concreta de que el combustible de validación es más profundo de lo que la nota original capturaba: gran parte del tiempo históricamente registrado en sus actividades (gym, piano, la aplicación que quería construir) corresponde a la época en que Grecia estaba presente y él le mostraba su progreso. Y, más específico aún: publica en Twitter pese a tener cero seguidores, esperando — "quiéralo o no" — que algún día Karla lo vea. Desde que asume que probablemente no lo verá, dejó de publicar por sí mismo.
+
+Esto es, en la práctica, un experimento natural ya ocurrido: se removió la audiencia (la certeza de que Karla lo vería) y el resultado no fue que la motivación se volviera intrínseca — fue que la conducta simplemente se detuvo. Zam mismo señaló que por esto no confía en que la sugerencia práctica anterior de esta nota ("haz algo sin que nadie lo sepa, mira cómo se siente") vaya a funcionar — ya ocurrió sin planearlo, y el resultado fue parar, no descubrir disfrute propio.
+
 ## Lo que aún no se sabe (no completar sin que Zam lo confirme)
 
-- ¿Esta necesidad de validación se activa igual de fuerte en todos los contextos (trabajo, amistad, familia) o es más intensa específicamente en relaciones con potencial romántico?
-- ¿Hay actividades que Zam sostiene hoy sin que nadie las vea ni las valide? Si existen, son el punto de partida más útil para entender cómo se ve la motivación de Zam cuando el combustible externo no está presente.
-- ¿La necesidad de validación precede a la estructura de vida orientada a metas, o se reforzaron mutuamente con el tiempo?
+- ¿Qué es distinto, estructuralmente, entre el trabajo del SACP (que sí sostiene sin audiencia) y las actividades trackeadas como gym/piano/programación (que parecen depender más de ella)? ¿Es la novedad, que el SACP es sobre sí mismo, que no tiene métrica de comparación externa, u otra cosa?
+- ¿La motivación en gym específicamente también dependía de una audiencia, o solo la programación/publicación pública? Esta nota no lo distingue todavía — Zam mencionó todo junto.
 
 Ver también: [[Índice]]
 
