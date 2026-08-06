@@ -42,7 +42,7 @@ Puede activarse durante cualquier motor del ciclo, distinta de Reflexión (que o
 
 ## (d) Integración de datos externos
 
-No es una cuarta etapa secuencial del Ciclo ni un cuarto eje formal — es una capacidad transversal invocable desde Evidencia o Investigación, igual que un Marco de Razonamiento puede usarse dentro de cualquier motor. Da acceso a datos conductuales reales de Zam desde una base de datos viva. Ver [[Protocolo de Ingesta de Datos Cuantitativos]] y [[Zam App — Base de datos de autorregistro (Supabase)]].
+No es una cuarta etapa secuencial del Ciclo ni un cuarto eje formal — es una capacidad transversal invocable desde cualquier motor, igual que un Marco de Razonamiento puede usarse dentro de cualquier motor. Da acceso a datos conductuales reales de Zam desde una base de datos viva, y desde 2026-08-06 también incluye escritura estructurada (asignación y cierre de tareas, resúmenes de sesión) bajo pedido explícito de Zam. Ver [[Protocolo de Ingesta de Datos Cuantitativos]] (solo lectura), [[Protocolo de Asignación de Tareas Personalizadas]] (lectura + escritura) y [[Zam App — Base de datos de autorregistro (Supabase)]].
 
 ## (e) Formato de respuesta — Teórico-Práctica
 
